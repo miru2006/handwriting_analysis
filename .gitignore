@@ -1,0 +1,5 @@
+emnist-letters-train.csv
+emnist-letters-test.csv
+archive.zip
+*.keras
+__pycache__/
